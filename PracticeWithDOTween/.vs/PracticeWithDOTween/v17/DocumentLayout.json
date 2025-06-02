@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Git\\PracticeWithDOTween\\PracticeWithDOTween\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{820B20E8-A445-9746-E27E-DAB609081F72}|Assembly-CSharp.csproj|f:\\git\\practicewithdotween\\practicewithdotween\\assets\\scripts\\changetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820B20E8-A445-9746-E27E-DAB609081F72}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\changetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820B20E8-A445-9746-E27E-DAB609081F72}|Assembly-CSharp.csproj|F:\\Git\\PracticeWithDOTween\\PracticeWithDOTween\\assets\\scripts\\changecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820B20E8-A445-9746-E27E-DAB609081F72}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\changecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820B20E8-A445-9746-E27E-DAB609081F72}|Assembly-CSharp.csproj|F:\\Git\\PracticeWithDOTween\\PracticeWithDOTween\\assets\\scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820B20E8-A445-9746-E27E-DAB609081F72}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820B20E8-A445-9746-E27E-DAB609081F72}|Assembly-CSharp.csproj|f:\\git\\practicewithdotween\\practicewithdotween\\assets\\scripts\\moveto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820B20E8-A445-9746-E27E-DAB609081F72}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820B20E8-A445-9746-E27E-DAB609081F72}|Assembly-CSharp.csproj|F:\\Git\\PracticeWithDOTween\\PracticeWithDOTween\\assets\\scripts\\changescale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820B20E8-A445-9746-E27E-DAB609081F72}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\changescale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChangeText.cs",
+              "DocumentMoniker": "F:\\Git\\PracticeWithDOTween\\PracticeWithDOTween\\Assets\\Scripts\\ChangeText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChangeText.cs",
+              "ToolTip": "F:\\Git\\PracticeWithDOTween\\PracticeWithDOTween\\Assets\\Scripts\\ChangeText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChangeText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T11:51:40.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChangeColor.cs",
+              "DocumentMoniker": "F:\\Git\\PracticeWithDOTween\\PracticeWithDOTween\\Assets\\Scripts\\ChangeColor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChangeColor.cs",
+              "ToolTip": "F:\\Git\\PracticeWithDOTween\\PracticeWithDOTween\\Assets\\Scripts\\ChangeColor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChangeColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T11:37:49.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChangeScale.cs",
+              "DocumentMoniker": "F:\\Git\\PracticeWithDOTween\\PracticeWithDOTween\\Assets\\Scripts\\ChangeScale.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChangeScale.cs",
+              "ToolTip": "F:\\Git\\PracticeWithDOTween\\PracticeWithDOTween\\Assets\\Scripts\\ChangeScale.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChangeScale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T11:22:36.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rotate.cs",
+              "DocumentMoniker": "F:\\Git\\PracticeWithDOTween\\PracticeWithDOTween\\Assets\\Scripts\\Rotate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Rotate.cs",
+              "ToolTip": "F:\\Git\\PracticeWithDOTween\\PracticeWithDOTween\\Assets\\Scripts\\Rotate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Rotate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T11:13:31.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoveTo.cs",
+              "DocumentMoniker": "F:\\Git\\PracticeWithDOTween\\PracticeWithDOTween\\Assets\\Scripts\\MoveTo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveTo.cs",
+              "ToolTip": "F:\\Git\\PracticeWithDOTween\\PracticeWithDOTween\\Assets\\Scripts\\MoveTo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveTo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:54:09.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
